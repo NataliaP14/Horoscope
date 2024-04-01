@@ -160,7 +160,7 @@ if (birthMonth == "November") {
     if (randomFortune == 1) {
         console.log("Your random fortune is: \n" + scorpioFortune);
     } else if (randomFortune == 2) {
-        console.log("Your random fortune is: \n" + scorpioFortune2);+
+        console.log("Your random fortune is: \n" + scorpioFortune2);
     } else {
         console.log("Your random fortune is: \n" + scorpioFortune3);
     }
